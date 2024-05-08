@@ -1,0 +1,17 @@
+{
+  "name": "GEICO",
+  "id": "geico-id",
+  "slug": "ACL",
+  "thumbnail": "https://dueshe9nqxhg.cloudfront.net/brand/ALC/ALC_medium.png",
+  "subject-type": "brand",
+  "overview": {
+    "impressions": 5126133306,
+    "impressionsSOV":  0.0781,
+    "impressions18": 7152256993,
+    "attentionIndex": 107,
+    "interruptionRate": 0.0284,
+    "industryAverage": 0.0270,
+    "airings": 24051,
+    "spend": 178650160
+  }
+}
